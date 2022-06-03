@@ -23,7 +23,7 @@ const initialCounterState = {
 //----------------- End Define state---------------------------------
 
 
-//Stepr 2: Action
+//Step 2: Action
 //----------------- Start Action---------------------------------
 // action is a object which has type and payload and it returns object
 // INCREMENT
